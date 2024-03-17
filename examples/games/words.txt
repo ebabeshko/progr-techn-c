@@ -1,0 +1,14 @@
+dog
+cat
+tree
+plane
+table
+programming
+language
+testing
+university
+information
+cybersecurity
+engineering
+computer
+faculty
