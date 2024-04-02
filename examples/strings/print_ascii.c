@@ -2,7 +2,7 @@
  * @file print_ascii.c
  * @brief Виведення таблиці ASCII
  * @details
- * Простий приклад виведення ASCII-символів з кодами 0x20..0xFF
+ * Простий приклад виведення ASCII-символів з кодами 0x20..0x7F
 */
 
 #include <stdio.h>
